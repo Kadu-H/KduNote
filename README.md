@@ -9,8 +9,10 @@ O download está disponível apenas para Windows:
 
 ## Como executar:
 1- Faça o download do arquivo zip.
+
 2- Extraia o arquivo zip em uma pasta.
+
 3- Execute o arquivo "KduNote.exe".
 
-###Informações:
+### Informações:
 Irei deixar o codigo principal de interação com a interface.
